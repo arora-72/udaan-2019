@@ -25,7 +25,7 @@ node ./bin/www
 
 NOTE: In case of local execution - mongoDB client is required.
 
-## API hosted at : [Click Here](https://udaan2019-indresh.herokuapp.com/)
+## API hosted at Heroku : [Click Here](https://udaan2019-indresh.herokuapp.com/)
 
 API Documentation :
 
