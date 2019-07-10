@@ -7,7 +7,7 @@ var Worker = require("../models/worker");
 /* GET home page. */
 
 router.get("/", function(req, res, next) {
-  res.json({ Message: "YO" });
+  res.json({ Message: "hello world!!" });
 });
 
 // router.post("/add-asset"); Done
