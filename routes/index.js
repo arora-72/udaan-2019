@@ -7,7 +7,7 @@ var Worker = require("../models/worker");
 /* GET home page. */
 
 router.get("/", function(req, res, next) {
-  res.json({ Message: "hello world!!" });
+  res.json({ Message: "hello world!! /n Documentation at : https://github.com/arora-72/udaan-2019" });
 });
 
 // router.post("/add-asset"); Done
